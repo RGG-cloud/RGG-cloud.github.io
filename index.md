@@ -16,4 +16,7 @@ Antoine de Saint-Exupéry (französischer Schriftsteller):
 > wenn es nichts mehr hinzuzufügen gibt, 
 > sondern wenn man nichts mehr weglassen kann.
 
+<img src="https://avatars2.githubusercontent.com/in/15368?s=88&v=4">
+
+
 
